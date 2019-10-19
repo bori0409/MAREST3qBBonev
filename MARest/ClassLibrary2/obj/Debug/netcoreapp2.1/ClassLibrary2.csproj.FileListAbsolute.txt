@@ -1,0 +1,17 @@
+C:\source\MALibrary\MALibrary\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.deps.json
+C:\source\MALibrary\MALibrary\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\source\MALibrary\MALibrary\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\source\MALibrary\MALibrary\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\source\MALibrary\MALibrary\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.AssemblyInfoInputs.cache
+C:\source\MALibrary\MALibrary\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.AssemblyInfo.cs
+C:\source\MALibrary\MALibrary\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\source\MALibrary\MALibrary\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\source\MALibrary\MARest\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.deps.json
+C:\source\MALibrary\MARest\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\source\MALibrary\MARest\ClassLibrary2\bin\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\source\MALibrary\MARest\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\source\MALibrary\MARest\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.AssemblyInfoInputs.cache
+C:\source\MALibrary\MARest\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.AssemblyInfo.cs
+C:\source\MALibrary\MARest\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\source\MALibrary\MARest\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\source\MALibrary\MARest\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.csprojAssemblyReference.cache

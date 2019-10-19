@@ -1,0 +1,17 @@
+C:\source\MALibrary\MARest\BookRest\bin\Debug\netcoreapp2.1\BookRest.deps.json
+C:\source\MALibrary\MARest\BookRest\bin\Debug\netcoreapp2.1\BookRest.runtimeconfig.json
+C:\source\MALibrary\MARest\BookRest\bin\Debug\netcoreapp2.1\BookRest.runtimeconfig.dev.json
+C:\source\MALibrary\MARest\BookRest\bin\Debug\netcoreapp2.1\BookRest.dll
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.csprojAssemblyReference.cache
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.csproj.CoreCompileInputs.cache
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.RazorAssemblyInfo.cache
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.RazorAssemblyInfo.cs
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.AssemblyInfoInputs.cache
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.AssemblyInfo.cs
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.RazorTargetAssemblyInfo.cache
+C:\source\MALibrary\MARest\BookRest\bin\Debug\netcoreapp2.1\BookRest.pdb
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.dll
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.pdb
+C:\source\MALibrary\MARest\BookRest\bin\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\source\MALibrary\MARest\BookRest\bin\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\source\MALibrary\MARest\BookRest\obj\Debug\netcoreapp2.1\BookRest.csproj.CopyComplete
