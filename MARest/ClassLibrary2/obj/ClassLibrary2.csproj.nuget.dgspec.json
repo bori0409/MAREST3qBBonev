@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\MALibrary\\MARest\\ClassLibrary2\\ClassLibrary2.csproj": {}
+    "C:\\source\\MAREST3qBBonev\\MARest\\ClassLibrary2\\ClassLibrary2.csproj": {}
   },
   "projects": {
-    "C:\\source\\MALibrary\\MARest\\ClassLibrary2\\ClassLibrary2.csproj": {
+    "C:\\source\\MAREST3qBBonev\\MARest\\ClassLibrary2\\ClassLibrary2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\MALibrary\\MARest\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectUniqueName": "C:\\source\\MAREST3qBBonev\\MARest\\ClassLibrary2\\ClassLibrary2.csproj",
         "projectName": "ClassLibrary2",
-        "projectPath": "C:\\source\\MALibrary\\MARest\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectPath": "C:\\source\\MAREST3qBBonev\\MARest\\ClassLibrary2\\ClassLibrary2.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\MALibrary\\MARest\\ClassLibrary2\\obj\\",
+        "outputPath": "C:\\source\\MAREST3qBBonev\\MARest\\ClassLibrary2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

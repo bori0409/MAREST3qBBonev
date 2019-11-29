@@ -12614,11 +12614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\MALibrary\\MARest\\BookRest\\BookRest.csproj",
+      "projectUniqueName": "C:\\source\\MAREST3qBBonev\\MARest\\BookRest\\BookRest.csproj",
       "projectName": "BookRest",
-      "projectPath": "C:\\source\\MALibrary\\MARest\\BookRest\\BookRest.csproj",
+      "projectPath": "C:\\source\\MAREST3qBBonev\\MARest\\BookRest\\BookRest.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\MALibrary\\MARest\\BookRest\\obj\\",
+      "outputPath": "C:\\source\\MAREST3qBBonev\\MARest\\BookRest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -12639,8 +12639,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\source\\MALibrary\\MARest\\ClassLibrary2\\ClassLibrary2.csproj": {
-              "projectPath": "C:\\source\\MALibrary\\MARest\\ClassLibrary2\\ClassLibrary2.csproj"
+            "C:\\source\\MAREST3qBBonev\\MARest\\ClassLibrary2\\ClassLibrary2.csproj": {
+              "projectPath": "C:\\source\\MAREST3qBBonev\\MARest\\ClassLibrary2\\ClassLibrary2.csproj"
             }
           }
         }
